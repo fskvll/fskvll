@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fskvll
-- 👀 I’m interested in software development,music and heavy weights :)
+- 👀 I’m interested in software development,music and heavy weights
 - 🌱 I’m currently trying to get consistet on the basic programming languages such as C,C#,C++ etc...
 - 📫 Reach me on discord FS#0001
 
